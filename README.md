@@ -1,1 +1,5 @@
 # Big-data
+# Alumnos:
+1 Olano Cauchos Oscar Andre
+2 JOSUE DANIEL NASCIMENTO RIVERA
+3 LARRY MARCCELO HENOSTROZA FLORES
